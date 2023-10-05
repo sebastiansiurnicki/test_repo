@@ -1,1 +1,3 @@
 Plik testowy dla gita
+
+1. zmiana w pliku
